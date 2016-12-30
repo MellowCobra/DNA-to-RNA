@@ -1,0 +1,24 @@
+{
+  "name": "dna-to-rna",
+  "version": "1.0.3",
+  "description": "Node package that converts strands of DNA to RNA and vice versa",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "dna",
+    "rna"
+  ],
+  "author": "Grayson M. Dubois",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
